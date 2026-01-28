@@ -3,12 +3,12 @@ Hi! My name is James Bennett and this is my portfolio to showcase my data analyt
 
 ## Table of Content
 
-[About]
-[Portfolio Projects]
+#[About]
+#[Portfolio Projects]
 
-- SQL
+###- SQL
 
-- Excel
+###- Excel
   -  [2019 Bitcoin Data Exploration]
   -  [Beauty Supply Chain Data Cleaning]
   -  [XLOOKUP Practice Multisheet]
