@@ -7,7 +7,7 @@ Hi! My name is James Bennett and this is my portfolio to showcase my data analyt
 [Portfolio Projects]
 
 - SQL
-  -
+
 - Excel
   -  [2019 Bitcoin Data Exploration]
   -  [Beauty Supply Chain Data Cleaning]
