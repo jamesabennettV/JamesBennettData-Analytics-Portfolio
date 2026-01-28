@@ -1,15 +1,17 @@
 ## JamesBennettData-Analytics-Portfolio
-Hi! My name is James Bennett and this is my portfolio to showcase my data analytics projects that I've been working on for the last several months. I was inspired by working on data and statistics from topics that interest me the most.
+Hi! My name is James Bennett and this is my portfolio to showcase my data analytics projects that I've been working on for the last several months. I was inspired by working on data and statistics from topics that interest me the most. 
+
+My CV in [pdf]
 
 ## Table of Content
 
-#[About]
+- [About]
 
-#[Portfolio Projects]
+- [Portfolio Projects]
 
-##- SQL
+- SQL
 
-##- Excel
+- Excel
   -  [2019 Bitcoin Data Exploration]
   -  [Beauty Supply Chain Data Cleaning]
   -  [XLOOKUP Practice Multisheet]
