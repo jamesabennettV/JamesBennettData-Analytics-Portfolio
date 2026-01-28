@@ -4,7 +4,8 @@ Hi! My name is James Bennett and this is my portfolio to showcase my data analyt
 # Table of Content
 
 - About
-- SQL
+- Portfolio Projects
+- -SQL
 - Excel
 - R
 - Python
