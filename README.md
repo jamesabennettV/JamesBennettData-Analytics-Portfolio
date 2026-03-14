@@ -19,3 +19,5 @@ My CV in [pdf]
 ## [Project 1: Bike Store Dashboard](https://github.com/jamesabennettV/BikeStoreDashboardProject)
 For this project, I built a comprehensive dashboard for executives of a bike company that shows them their profit per revenue. The tools I had used were SQL, Excel, and tableau.
 
+[Tableau Bike Store Dashboard](https://public.tableau.com/views/BikeStoreVisualDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
