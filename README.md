@@ -1,5 +1,3 @@
-# James Bennett - Data Analytics Portfolio
-
 ## [Bike Store Data Exploration & Dashboard](https://github.com/jamesabennettV/BikeStoreDashboardProject)
 **Description:** The dataset contains theoretical revenue for bike sales and records. For this project, it includes: data loading through query, Pivot charts, and data visualizaion.
 
