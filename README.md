@@ -6,6 +6,7 @@
 **Technology:** MySQLWorkbench, Excel, Tableau
 
 ## Overview of Tableau Bike Store dashboard
-[Tableau Bike Store Dashboard](https://public.tableau.com/views/BikeStoreVisualDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Published on Tableau Public:
+[Bike Store Dashboard](https://public.tableau.com/views/BikeStoreVisualDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![](BikeStoreDashboard.png)
